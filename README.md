@@ -12,11 +12,11 @@ neural network provides a high prediction accuracy of the ventricle area from an
 MRI Image Segmentation Dataset
 # OASIS 1 DATA : https://www.oasis-brains.org/#data
 
-Different files:
-model -  contains 3D CNN architecture
-Data Augmentation -  Handeling imbalances in data
-Visualization_weights - Contains sample models trained and visualization of their weights
-Accuracy test- Loaded completely new samples and tested our model on it
+Different files:<br>
+model -  contains 3D CNN architecture<br>
+Data Augmentation -  Handeling imbalances in data<br>
+Visualization_weights - Contains sample models trained and visualization of their weights<br>
+Accuracy test- Loaded completely new samples and tested our model on it<br>
  
 Report- Project report 
-Actual and predicted images
+
